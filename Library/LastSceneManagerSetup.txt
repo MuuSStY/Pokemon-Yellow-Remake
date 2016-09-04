@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Pallet Town.unity
+- path: Assets/Scenes/Kanto.unity
   isLoaded: 1
   isActive: 1
